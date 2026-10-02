@@ -57,4 +57,4 @@
   www: https://btc.solopool.org/
 - endpoint: stratum+tcp://solo.echopool.org:3333
   fee: 1%
-  www: https://echoopool.org/
+  www: https://echopool.org/
